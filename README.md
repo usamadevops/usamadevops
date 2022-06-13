@@ -14,13 +14,13 @@
 
 - 👯 I’m looking to collaborate on **NFT Projects**
 
-- 👨‍💻 All of my projects are available at [routeway1.wixsite.com/usamaaltaf](routeway1.wixsite.com/usamaaltaf)
+- 👨‍💻 All of my other Design projects are available at [routeway1.wixsite.com/usamaaltaf](routeway1.wixsite.com/usamaaltaf)
 
-- 💬 Ask me about **Music and Seasons**
+- 💬 Ask me about **Music and Football**
 
 - 📫 How to reach me **ualtaf238@gmail.com**
 
-- ⚡ Fun fact **I only work 16 hours a day.**
+- ⚡ Good fact **I love people who criticize and help others correct their mistakes**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
