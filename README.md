@@ -8,19 +8,19 @@
 
 <p align="center"> <a href="https://twitter.com/usamaaltaf122" target="blank"><img src="https://img.shields.io/twitter/follow/usamaaltaf122?logo=twitter&style=for-the-badge" alt="usamaaltaf122" /></a> </p>
 
-- 🔭 I’m currently working on **Social Networking Mobile Application**
+- 🔭 I’m currently working on **Real Time Vehicle Map Tracking System**
 
-- 🌱 I’m currently learning **React Native Animations**
+- 🌱 I’m currently learning **Next JS , IOs Development**
 
-- 👯 I’m looking to collaborate on **NFT Projects**
+- 👯 I’m looking to collaborate on **World Problem Solving Projects**
 
 - 👨‍💻 All of my other Design projects are available at [routeway1.wixsite.com/usamaaltaf](routeway1.wixsite.com/usamaaltaf)
 
-- 💬 Ask me about **Music and Football**
+- 💬 Ask me about **Cryptocurrency and Revolution**
 
 - 📫 How to reach me **ualtaf238@gmail.com**
 
-- ⚡ Good fact **I love people who criticize and help others correct their mistakes**
+- ⚡ Good fact **I like people who criticize and help others correct their mistakes**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
