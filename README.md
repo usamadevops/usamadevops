@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Startup that can bring change in agriculture Sector of Pakistan**
 
-- 👨‍💻 All of my other Design projects are available at [routeway1.wixsite.com/usamaaltaf](routeway1.wixsite.com/usamaaltaf)
+- 👨‍💻 All of my other Design projects are available at [routeway1.wixsite.com/usamaaltaf](https://routeway1.wixsite.com/usamaaltaf)
 
 - 💬 Ask me about **Current Industry Standards and Best Development Practises**
 
