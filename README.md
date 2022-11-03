@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Current Industry Standards and Best Development Practises**
 
-- 📫 How to reach me **ualtaf238@gmail.com**
+- 📫 How to reach me **technergeeks@gmail.com**
 
 - ⚡ Good fact about me **I will never stop unless I count it as a day well spent**
 
