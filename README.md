@@ -15,17 +15,17 @@
 
 - 🔭 I’m currently working on **Real Time Vehicle Map Tracking System**
 
-- 🌱 I’m currently learning **Next JS , IOs Development**
+- 🌱 I’m currently learning **Node JS/MongoDB , Ios Development **
 
 - 👯 I’m looking to collaborate on **Startup that can bring change in agriculture Sector of the World to help us in future Food Crisis**
 
-- 👨‍💻 All of my other Design projects are available at [routeway1.wixsite.com/usamaaltaf](https://routeway1.wixsite.com/usamaaltaf)
+- 👨‍💻 Get to know more about me at [routeway1.wixsite.com/usamaaltaf](https://routeway1.wixsite.com/usamaaltaf)
 
-- 💬 Ask me about **Current Industry Standards and Best Development Practises**
+- 💬 Ask me about **Any Medievel/Physcological Seasons or Music Production **
 
 - 📫 How to reach me **technergeeks@gmail.com**
 
-- ⚡ Good fact about me **I will never stop unless I count it as a day well spent**
+- ⚡ Good fact about me **I never count the time I work,rather the impact I made while Working**
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
