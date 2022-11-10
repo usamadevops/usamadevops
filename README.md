@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Next JS , IOs Development**
 
-- 👯 I’m looking to collaborate on **Startup that can bring change in agriculture Sector of Pakistan**
+- 👯 I’m looking to collaborate on **Startup that can bring change in agriculture Sector of the World to help us in future Food Crisis**
 
 - 👨‍💻 All of my other Design projects are available at [routeway1.wixsite.com/usamaaltaf](https://routeway1.wixsite.com/usamaaltaf)
 
