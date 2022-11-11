@@ -11,6 +11,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+usamaaltaf!;I'm+a+reactnative+developer...;I'm+a+music+enthusiast;And+I+like+contributing+to+people's+work)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=usamadevops)
+
 <h3> Here's some facts about me: </h3>
 
 - 🔭 I’m currently working on **Real Time Vehicle Map Tracking System**
