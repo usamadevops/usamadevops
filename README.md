@@ -86,8 +86,6 @@
 </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=usamadevops)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
