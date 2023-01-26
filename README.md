@@ -21,7 +21,6 @@
 
 - 👯 I’m looking to collaborate on **Startup that can bring change in agriculture Sector of the World to help us in future Food Crisis**
 
-- 👨‍💻 Get to know more about me at [routeway1.wixsite.com/usamaaltaf](https://routeway1.wixsite.com/usamaaltaf)
 
 - 💬 Ask me about **Any Medievel/Physcological Seasons or Music Production **
 
