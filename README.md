@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **technergeeks@gmail.com**
 
-- ⚡ Good fact about me **I never count the time I work,rather the impact I made while Working**
+- ⚡ Good fact about me **I never look at the time I worked,rather the impact I made while Working**
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
