@@ -15,9 +15,9 @@
 
 <h3> Here's some facts about me: </h3>
 
-- 🔭 I’m currently working on **Real Time Vehicle Map Tracking System**
+- 🔭 I’m currently working on **Blood Donation App**
 
-- 🌱 I’m currently learning **Node JS/MongoDB , Ios Development **
+- 🌱 I’m currently learning **Backend Stack & Mobile complex Animations**
 
 - 👯 I’m looking to collaborate on **Startup that can bring change in agriculture Sector of the World to help us in future Food Crisis**
 
