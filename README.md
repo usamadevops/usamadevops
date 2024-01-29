@@ -1,10 +1,4 @@
 
-
-
-# Hey everyone! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
-
-![Group 6](https://user-images.githubusercontent.com/62393328/200386662-9f7b4a5a-ac31-4618-b6de-9e3775824363.png)
-
 <!-- <img src="https://profile-counter.glitch.me/usamadevops/count.svg">
  -->
 [![GitHub followers](https://img.shields.io/github/followers/usamadevops.svg?style=social&label=Followers)](https://github.com/usamadevops?tab=followers)
